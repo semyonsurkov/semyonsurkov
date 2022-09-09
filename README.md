@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Semyon Surkov. 
-I'm a Junior Frontend-Developer, that finding a job.
+I'm looking for a job/internship in the profession: "Junior Frontend Developer".
+
+
 
 ### My contacts 
 <a href="https://t.me/semyonsurkov/">
