@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Semyon Surkov. 
 <br>
-I'm looking for a job/internship in the profession: "Junior Frontend Developer".
+I'm looking for a job in the profession: "Junior Frontend Developer".
 
 
 
