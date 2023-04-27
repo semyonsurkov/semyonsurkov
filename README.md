@@ -28,3 +28,4 @@ I'm looking for a job in the profession - frontend developer.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ### 📈 My Github Stats 
 [![](https://github-readme-stats.vercel.app/api?username=semyonsurkov&theme=react&show_icons=true)](https://github.com/semyonsurkov)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=semyonsurkov)](https://git.io/streak-stats)
