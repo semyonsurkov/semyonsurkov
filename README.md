@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Semyon Surkov. 
 <br>
-I'm looking for a job in the profession - frontend developer.
+
 
 
 
